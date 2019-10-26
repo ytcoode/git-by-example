@@ -25,7 +25,7 @@ $ git -P branch -avv
 
 由上可见，该仓库目前只有本地分支master，其对应的远程分支为origin/master（就是该仓库在GitHub上的master分支）。
 
-下面我们用上一篇文章中介绍过的命令，创建一个测试分支，并同步到远端：
+下面我们用[上一篇文章](create_branch.md)中介绍过的命令，创建一个测试分支，并同步到远端：
 
 ```sh
 $ git branch b1
