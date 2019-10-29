@@ -10,3 +10,4 @@
 - [删除本地分支及远程分支](delete_branch.md)
 - [同步本地分支的添加删除状态到远程（或反之）](branch_sync.md)
 - [命令行中图形化显示提交日志](log_graph.md)
+- [命令别名](command_alias.md)
