@@ -12,3 +12,4 @@
 - [命令行中图形化显示提交日志](log_graph.md)
 - [命令别名](command_alias.md)
 - [灵活使用git diff命令](diff.md)
+- [合并多次提交为一次](rebase_squash_commits.md)
