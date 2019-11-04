@@ -6,6 +6,12 @@
 # 把当前分支commit提交之后的所有提交合并为一次
 # 其实该命令可以做很多事，我们这里只讲合并提交
 git rebase -i <commit>
+
+# 也可以用下面的命令，先把当前分支commit之后的
+# 所有提交reset到Git的staging area，然后再把它
+# 们作为一个整体重新提交
+git reset --soft <commit>
+git commit -m 新的提交日志
 ```
 
 情景模拟：
