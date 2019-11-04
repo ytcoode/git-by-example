@@ -13,3 +13,4 @@
 - [命令别名](command_alias.md)
 - [灵活使用git diff命令](diff.md)
 - [合并多次提交为一次](rebase_squash_commits.md)
+- [如何使用git rebase命令](rebase.md)
