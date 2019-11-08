@@ -14,3 +14,4 @@
 - [灵活使用git diff命令](diff.md)
 - [合并多次提交为一次](rebase_squash_commits.md)
 - [如何使用git rebase命令](rebase.md)
+- [有关Git命令无法正确显示中文路径的问题](unicode_path.md)
