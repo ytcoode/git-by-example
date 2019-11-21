@@ -16,4 +16,4 @@
 - [如何使用git rebase命令](rebase.md)
 - [有关Git命令无法正确显示中文路径的问题](unicode_path.md)
 - [查看指定提交的修改内容](show.md)
-- [查看指定提交的修改内容](log_one_file.md)
+- [查看指定文件的历史修改记录](log_one_file.md)
